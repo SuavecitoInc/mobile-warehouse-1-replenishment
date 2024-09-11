@@ -1,7 +1,7 @@
 {
-  "name": "mobile-warehouse",
+  "name": "mobile-warehouse-replenishment",
   "version": "0.0.1",
-  "description": "NetSuit SuiteScripts",
+  "description": "A NetSuite SuiteLet to automate Transfer Orders between the Main Warehouse and a Mobile Warehouse",
   "scripts": {
     "build": "tsc"
   },
